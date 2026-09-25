@@ -94,8 +94,16 @@
         <div class="bg-white rounded-2xl shadow-xl overflow-hidden transform transition-all hover:shadow-2xl" style="background-color: #ffffff !important;">
             <!-- Card Header with Logo -->
             <div class="p-6 sm:p-8 bg-gradient-to-r from-primary-500 to-primary-600 text-center">
-                <a href="/" class="inline-block mb-4">
-                    <img src="{{ ($settings->logo ? asset('storage/' . $settings->logo) : asset('default-logo.png')) }}" alt="Logo" class="h-16 mx-auto rounded-2xl">
+                <a href="/" class="flex flex-col items-center leading-none inline-block mb-4">
+                    <div class="flex items-center justify-center space-x-2">
+                        <img src="{{ asset('temp/custom/images/rt-favicon.svg') }}" alt="Logo" class="w-10 h-10 object-contain rounded-xl">
+                        <div class="text-3xl font-black italic tracking-tighter">
+                            <span class="text-white">Real</span><span class="text-primary-100">Time</span>
+                        </div>
+                    </div>
+                    <div class="text-[10px] tracking-[0.4em] text-white font-bold ml-1 mt-1 opacity-90">
+                        LOGISTICS
+                    </div>
                 </a>
                 <h1 class="text-2xl font-bold text-white mb-1">Admin Dashboard</h1>
                 <p class="text-primary-100">Access your administrative controls</p>
