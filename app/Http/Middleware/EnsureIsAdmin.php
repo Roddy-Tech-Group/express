@@ -32,7 +32,7 @@ class EnsureIsAdmin
 
         return $next($request);
         } else {
-            return redirect()->route('validate_admin');
+            return redirect()->route('adminloginform');
         }
     }
 }
