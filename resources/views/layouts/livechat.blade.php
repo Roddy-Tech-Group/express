@@ -23,9 +23,7 @@
 
 
 {{-- Paste Your  Live chart code  From Down Here --}}
-
-
-
+<script id="chatway" async="true" src="https://cdn.chatway.app/widget.js?id=1tZPNAAKsNPz"></script>
 
 
 
