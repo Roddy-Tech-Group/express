@@ -64,7 +64,7 @@
                 </div>
                 <h3 class="text-xl font-semibold text-gray-900 mb-2">Call Us</h3>
                 <p class="text-gray-600 mb-4">Our support team is available 24/7</p>
-                <p class="text-lg font-medium text-primary-600">TOLL FREE</p>
+                <p class="text-lg font-medium text-primary-600">+1(801) 666-9220</p>
             </div>
             
             <!-- Email Card -->
