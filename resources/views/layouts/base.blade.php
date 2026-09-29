@@ -399,7 +399,7 @@
                                 </div>
                                 <div>
                                     <p class="text-gray-400 text-sm">Call Us</p>
-                                    <p class="text-white">+1(801) 666-9220</p>
+                                    <p class="text-white">+1 (717) 342-3990</p>
                                 </div>
                             </div>
                             <div class="flex items-start space-x-3">
